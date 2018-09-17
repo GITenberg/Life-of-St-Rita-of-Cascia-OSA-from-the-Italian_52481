@@ -1,0 +1,25 @@
+_repo: Life-of-St-Rita-of-Cascia-OSA-from-the-Italian_52481
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Connolly, Richard
+    gutenberg_agent_id: '46885'
+    url: http://www.gutenberg.org/2009/agents/46885
+description: ''
+gutenberg_issued: '2016-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52481'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Rita, of Cascia, Saint, 1381?-1457'
+- !lcsh 'Christian saints -- Italy -- Cascia -- Biography'
+- GITenberg
+title: 'Life of St. Rita of Cascia, O.S.A.
+
+  from the Italian'
+url: http://www.gutenberg.org/ebooks/52481
