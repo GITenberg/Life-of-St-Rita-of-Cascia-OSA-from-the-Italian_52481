@@ -1,11 +1,16 @@
 _repo: Life-of-St-Rita-of-Cascia-OSA-from-the-Italian_52481
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52481-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Connolly, Richard
     gutenberg_agent_id: '46885'
     url: http://www.gutenberg.org/2009/agents/46885
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52481#Life-of-St-Rita-of-Cascia-OSA-from-the-Italian
 gutenberg_issued: '2016-07-02'
 gutenberg_type: Text
 identifiers:
